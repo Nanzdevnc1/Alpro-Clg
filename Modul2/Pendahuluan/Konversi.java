@@ -26,7 +26,7 @@ public class Konversi {
 
         // Casting 
         float hasilBagi = (float)e / c;
-        System.out.println("Hasil pembagian dari " + e / c + " adalah : " + hasilBagi );
+        System.out.println("Hasil pembagian dari " + e + ":" + c + " adalah : " + hasilBagi );
 
     }
 }
