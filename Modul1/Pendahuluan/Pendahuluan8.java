@@ -1,4 +1,4 @@
-package Modul1;
+package Modul1.Pendahuluan;
 
 public class Pendahuluan8 {
     public static void main(String[] args) {
