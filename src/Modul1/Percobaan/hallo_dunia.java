@@ -1,4 +1,4 @@
-package Modul1.Percobaan;
+package src.Modul1.Percobaan;
 
 public class hallo_dunia {
     

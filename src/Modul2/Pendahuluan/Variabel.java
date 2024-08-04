@@ -1,4 +1,4 @@
-package Modul2.Pendahuluan;
+package src.Modul2.Pendahuluan;
 
 public class Variabel {
     public static void main(String[] args) {
