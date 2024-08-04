@@ -5,8 +5,8 @@ public class Haji {
         int biayaHaji = 50000000;
         int bukaTabungan = 10000000;
         byte sisaBulan = 23;
-        int sisaBiaya;
-        int cicilanHaji;
+        float sisaBiaya;
+        float cicilanHaji;
 
         sisaBiaya = biayaHaji - bukaTabungan;
         cicilanHaji = sisaBiaya / sisaBulan;
