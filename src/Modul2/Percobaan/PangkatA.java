@@ -10,6 +10,6 @@ public class PangkatA {
         hasilPangkat2 = (int) Math.pow(4, 4);
 
         hasilPenjumlahanPangkat = hasilPangkat1 + hasilPangkat2;
-        System.out.println("Hasil dari 2^8 + 4^4 adalah " + hasilPenjumlahan);
+        System.out.println("Hasil dari 2^8 + 4^4 adalah " + hasilPenjumlahanPangkat);
     }
 }
