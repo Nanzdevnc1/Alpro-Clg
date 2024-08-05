@@ -13,6 +13,6 @@ public class PangkatB {
         nilaiPangkat3 = (int) Math.pow(2, 2);
         
         hasilAkhir = (nilaiPangkat1 + nilaiPangkat2) / nilaiPangkat3;
-        System.out.println("Hasil akhir dari (2^2 + 4^1) / 2^2 adalah " + hasilAkhir);
+        System.out.println("Hasil akhir dari (2^2 + 4^1) / 2^2 bernilai " + hasilAkhir);
     }
 }
