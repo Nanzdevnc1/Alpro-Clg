@@ -1,4 +1,4 @@
-package src.Modul3.Pendahuluan;
+package Modul3.Pendahuluan;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package src.Modul3.Pendahuluan;
+package Modul3.Pendahuluan;
 
 public class Nomor3B {
     public static void main(String[] args) {

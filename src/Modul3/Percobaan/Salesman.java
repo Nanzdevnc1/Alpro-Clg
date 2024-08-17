@@ -1,4 +1,4 @@
-package src.Modul3.Percobaan;
+package Modul3.Percobaan;
 
 import javax.swing.JOptionPane;
 

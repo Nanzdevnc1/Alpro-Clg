@@ -1,4 +1,4 @@
-package src.Modul3.Percobaan;
+package Modul3.Percobaan;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
