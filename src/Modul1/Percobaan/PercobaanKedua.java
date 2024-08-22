@@ -1,4 +1,4 @@
-package src.Modul1.Percobaan;
+package Modul1.Percobaan;
 
 public class PercobaanKedua {
     public static void main(String[] args) {

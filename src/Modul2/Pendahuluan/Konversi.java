@@ -1,4 +1,4 @@
-package src.Modul2.Pendahuluan;
+package Modul2.Pendahuluan;
 
 public class Konversi {
     public static void main(String[] args) {

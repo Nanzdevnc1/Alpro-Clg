@@ -1,4 +1,4 @@
-package src.Modul2.Percobaan;
+package Modul2.Percobaan;
 
 public class Haji {
     public static void main(String[] args) {
