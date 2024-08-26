@@ -44,5 +44,6 @@ public class Nomor3B {
                 System.out.println("Invalid Number");
                 break;
         }
+        input.close();
     }
 }

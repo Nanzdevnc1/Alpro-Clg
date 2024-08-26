@@ -32,5 +32,7 @@ public class Nomor3A {
         } else {
             System.out.println("Invalid Number");
         }
+
+        input.close();
     }
 }

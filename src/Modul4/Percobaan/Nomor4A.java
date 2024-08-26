@@ -35,5 +35,6 @@ public class Nomor4A {
         System.out.println("Jumlah angka genap : " + jumlahAngkaGenap);
         System.out.println("Termasuk angka ganjil : " + angkaGanjil);
         System.out.println("Jumlah angka ganjil : " + jumlahAngkaGanjil);
+        input.close();
     }
 }
