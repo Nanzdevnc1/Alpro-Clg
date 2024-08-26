@@ -7,6 +7,7 @@ public class NewClass {
         int data[][] = { { 4, 6, 4, 2, 8, 4, 2, 10 }, { 4, 6, 4, 2, 8, 4, 2, 10 } };
         int x, y, komponen, n, value, jumlahIndexGenap, jumlahIndexGanjil;
         double rataRata;
+        boolean found;
 
         System.out.println("====== WHILE LOOP ======");
         x = 0;
@@ -45,12 +46,19 @@ public class NewClass {
         System.out.println("Rata-rata pada Array tersebut adalah " + rataRata);
 
         n = Integer.parseInt(JOptionPane.showInputDialog("Masukkan nilai yang ingin dicari"));
+        found = false;
         for (int i = 0; i < data.length; i++) {
             for (int j = 0; j < data[0].length; j++) {
                 if (n == data[i][j]) {
+                    found = true;
                     JOptionPane.showMessageDialog(null, "Nilai tersebut berada di index " +"[" +i + "]" + "[" + j + "]", "Result", JOptionPane.INFORMATION_MESSAGE);
                 }
             }
+        }
+
+        if (!found) {
+            JOptionPane.showMessageDialog(null, "Nilai tersebut tidak ditemukan");
+            return;
         }
 
         value = Integer.parseInt(JOptionPane.showInputDialog("Masukkan nilai baru :"));
