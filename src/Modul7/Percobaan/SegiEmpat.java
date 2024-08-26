@@ -7,7 +7,7 @@ public class SegiEmpat {
     }
 
     private void segiEmpat(int panjang, int lebar) {
-        double luas, keliling;
+        double luas;
         luas = panjang * lebar;
         System.out.println("----------------------------");
         System.out.println("Panjang Segi Empat : " + panjang);
